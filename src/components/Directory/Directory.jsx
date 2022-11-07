@@ -13,5 +13,5 @@ const Directory = ({ categories }) => {
   );
 };
 
-// into app
+// into Home
 export default Directory;
